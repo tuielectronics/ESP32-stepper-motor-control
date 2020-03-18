@@ -1,4 +1,4 @@
-# ESP32-steper-motor-control
+# ESP32-stepper-motor-control by MCPWM
 ESP32 Arduino stepper motor accurately control 
 
 ![stepper motor](/motor.PNG)

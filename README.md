@@ -1,6 +1,6 @@
 # ESP32-steper-motor-control
 ESP32 Arduino stepper motor accurately control 
 
-![aruco image](/stepper.png)
+![stepper motor](/stepper.PNG)
 
-![aruco image](/wave.png)
+![control sequence](/wave.PNG)
